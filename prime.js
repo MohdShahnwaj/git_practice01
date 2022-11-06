@@ -8,8 +8,8 @@ for(let i=2; i*i<=n; i++){
 }
 }
 if(flag){
-    console.log("Not a prime");
+    console.log(" prime");
 }
 else{
-    console.log("Prime");
+    console.log(" Not a Prime");
 }
