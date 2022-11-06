@@ -6,10 +6,11 @@ for(let i=2; i*i<=n; i++){
     flag=false;
     break;
 }
-}
+
 if(flag){
-    console.log(" prime");
+    console.log("Prime");
 }
 else{
-    console.log(" Not a Prime");
+    console.log("Not a Prime");
+
 }
